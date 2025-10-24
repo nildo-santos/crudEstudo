@@ -1,10 +1,10 @@
-package dto;
+package br.com.nildosantos.dto;
 
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
 @Setter
+@Getter
 public class ClienteResponse {
 
 	private String nome;

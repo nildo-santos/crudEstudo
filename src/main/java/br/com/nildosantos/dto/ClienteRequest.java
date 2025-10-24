@@ -1,4 +1,4 @@
-package dto;
+package br.com.nildosantos.dto;
 
 import lombok.Getter;
 import lombok.Setter;

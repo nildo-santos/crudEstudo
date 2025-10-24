@@ -1,4 +1,4 @@
-package entities;
+package br.com.nildosantos.entities;
 
 import java.util.UUID;
 

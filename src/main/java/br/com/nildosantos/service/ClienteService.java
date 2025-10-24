@@ -1,12 +1,12 @@
-package service;
+package br.com.nildosantos.service;
 
 import java.util.UUID;
 
 import org.springframework.stereotype.Service;
 
-import dto.ClienteRequest;
-import dto.ClienteResponse;
-import entities.Cliente;
+import br.com.nildosantos.dto.ClienteRequest;
+import br.com.nildosantos.dto.ClienteResponse;
+import br.com.nildosantos.entities.Cliente;
 
 @Service
 public class ClienteService {
